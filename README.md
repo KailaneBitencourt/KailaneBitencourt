@@ -7,12 +7,6 @@
 
   ##
 
-<div align="center">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=KailaneBitencourt&theme=radical" />
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KailaneBitencourt&layout=compact&langs_count=8&card_width=310&theme=radical" />
-</div>
-
-##
 
 <div style="display: inline_block"> 
   <img text-align="center" alt="Kai.html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
