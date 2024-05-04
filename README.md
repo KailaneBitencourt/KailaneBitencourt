@@ -1,16 +1,26 @@
-### Hi there 👋
+## Oiii!! Eu sou a Kailane Bitencourt
 
-<!--
-**KailaneBitencourt/KailaneBitencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
+- 🌱 Estudando NodeJS e MySQL
+- 📫 contacte-me no email: kailanebitencourtdossantos@gmail.com
+- 😄 Pronomes: ela/dela
 
-Here are some ideas to get you started:
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=KailaneBitencourt&theme=radical" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KailaneBitencourt&layout=compact&langs_count=8&card_width=310&theme=radical" />
+</div>
+
+##
+
+<div style="display: inline_block"> 
+  <img text-align="center" alt="Kai.html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+  <img text-align="center" alt="Kai.css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />        
+  <img text-align="center" alt="Kai.js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img text-align="center" alt="Kai.py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+</div>
+
+##
+![snake gif](https://github.com/KailaneBitencourt/KailaneBitencourt/blob/output/github-contribution-grid-snake.svg)
