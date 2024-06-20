@@ -7,6 +7,15 @@
 
   ##
 
+  
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KailaneBitencourt&layout=compact&theme=dracula)
+    
+  
+  
+  
+  ##
+
 
 <div style="display: inline_block"> 
   <img text-align="center" alt="Kai.html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
