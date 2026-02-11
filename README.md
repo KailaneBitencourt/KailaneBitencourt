@@ -1,7 +1,7 @@
 ## Oiii!! Eu sou a Kailane Bitencourt
 
 - 💬 Pergunte-me sobre HTML, CSS, Python ...
-- 🌱 Estudando NodeJS e MySQL
+- 🌱 Estudando Excel, SQL e PowerBi 
 - 📫 contacte-me no email: kailanebitencourtdossantos@gmail.com
 - 😄 Pronomes: ela/dela
 
