@@ -102,17 +102,6 @@ Busco oportunidades onde eu possa:
 - 🌱 Aprender com profissionais da área
 - 🚀 Continuar evoluindo profissionalmente
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KailaneBitencourt&show_icons=true&theme=transparent&hide_border=true&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailaneBitencourt&layout=compact&theme=transparent&hide_border=true&locale=pt-br"/>
-
-</div>
 
 ---
 
@@ -122,7 +111,7 @@ Busco oportunidades onde eu possa:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KailaneBitencourt)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailane-bitencourt/)
 
 </div>
 
