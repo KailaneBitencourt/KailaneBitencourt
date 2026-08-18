@@ -8,7 +8,7 @@
 
 ## 🌷 Sobre mim
 
-Sou estudante de **Sistemas de Informação** e **Técnica em Informática**, apaixonada por tecnologia e por aprender coisas novas.
+Sou estudante de **Sistemas de Informação** , apaixonada por tecnologia e por aprender coisas novas.
 
 Atualmente, estou direcionando minha carreira para a área de **Dados**, estudando análise, tratamento e visualização de informações.
 
